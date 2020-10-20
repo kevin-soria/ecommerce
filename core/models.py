@@ -12,7 +12,6 @@ class Item(models.Model):
 class OrderItem(models.Model):
     def __str__(self):
         return self.title
-    pass
 
 
 class Order(model.Model):
@@ -23,5 +22,5 @@ class Order(model.Model):
     ordered = models.BooleanField(default=False)
     
     def __str__(self):
-         return self.title
+         return self.user.username
     
