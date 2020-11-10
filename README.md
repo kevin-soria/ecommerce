@@ -24,3 +24,9 @@ This project includes:
 1. Settings modules for deploying with Azure
 2. Django commands for renaming your project and creating a superuser
 3. A cli tool for setting environment variables for deployment
+
+
+To run virtual env:
+1.  run Powershell
+2.  perhaps install by py -m venv env
+3. run by .\env\Scripts\activate
