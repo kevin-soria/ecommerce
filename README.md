@@ -31,3 +31,6 @@ To run virtual env:
 2.  perhaps install by py -m venv env
 3. run by .\env\Scripts\activate
 #### usually 3 it is to run env
+
+
+<!-- Stop at 11:35 -->
